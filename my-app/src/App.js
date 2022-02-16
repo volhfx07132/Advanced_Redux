@@ -5,6 +5,7 @@ import Cart from "./components/Cart/Cart";
 import Layout from "./components/Layout/Layout";
 import Products from "./components/Shop/Products";
 import { sendCartData, fetchCartData } from "./store/cart-actions";
+//Please! install redux deeptools in extension (Chrome) 
 
 let isInitial = true;
 
