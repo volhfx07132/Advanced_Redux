@@ -35,6 +35,7 @@ const cartSlice = createSlice({
        existingItem.totalPrice = existingItem.totalPrice - existingItem.price;
       }
     },
+    //Use fecth heat, to add data to adata base
   },
 });
 
